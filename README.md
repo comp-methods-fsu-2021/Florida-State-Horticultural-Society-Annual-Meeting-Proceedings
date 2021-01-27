@@ -8,6 +8,8 @@
 | 01/26/2021 | added general index to repository (1 minute); researched Articles for Creation process on Wikipedia (40 minutes); created [Wikipedia draft](https://en.wikipedia.org/wiki/Draft:Florida_State_Horticultural_Society) Florida State Horticultural Society page (20 minutes); added terms to Data Dictionary (30 minutes)
 
 ## Change Log
+-Uploaded proceedings txt files (01/25/2021)
+-Uploaded index (01/26/2021)
 -Struggling to find citable sources for Wikipedia page on FSHS. Fear draft may be deleted! :( (01/26/2021)
 
 ## Data Dictionary
