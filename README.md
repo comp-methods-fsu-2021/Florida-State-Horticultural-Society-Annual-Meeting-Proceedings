@@ -1,5 +1,9 @@
 # Florida State Horticultural Society Annual Meeting Proceedings
- This repository contains plain text files of FSHS Annual Meeting Proceedings
+ This repository contains plain text files and fascimilies of FSHS Annual Meeting Proceedings.
+
+## About the Project
+
+### Research Question
 
 ## Time Log
 | Date | Description |
