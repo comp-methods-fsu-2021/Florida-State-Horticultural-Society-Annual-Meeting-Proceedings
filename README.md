@@ -1,10 +1,13 @@
 # Florida State Horticultural Society Annual Meeting Proceedings
  This repository contains plain text files and fascimilies of FSHS Annual Meeting Proceedings.
 
-## About the Project
+ ## About the Project
 
-### Research Question
+ This repository contains several years of proceedings from the annual meetings of the Florida State Horticultural Society (FSHS) from 1894 to 1922. This project seeks to understand the changing interests of the FSHS at the beginning of the twentieth century.
 
+ ### Research Question
+ How do the Florida State Horticultural Society's interests change over time, as reflected by the Annual Meetings' Proceedings Table of Contents? Do the titles of committee presentations, discussions, and special presentations reflect the changing priorities and interests of the Society in the early twentieth century?
+ 
 ## Time Log
 | Date | Description |
 | ------- | --------- |
