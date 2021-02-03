@@ -1,3 +1,4 @@
 ## Regular Expressions for Cleaning (Exercise 4)
 
 * Eliminated mid-sentence line breaks with ([a-z]) ?\n(?=[a-z]) (replaced with $1 ), as suggested by Dr. Hanley.
+* Experimented cleaning with extra blank spaces with \n{2,10}\s  since sections of excess space tended to exist in range of 2-10 lines.
