@@ -1,3 +1,3 @@
-## Regular Expressions for Cleaning (Exercise 4)
+Regular Expressions for Cleaning (Exercise 4)
 
 Eliminated mid-sentence line breaks with ([a-z]) ?\n(?=[a-z]) (replaced with $1 ), as suggested by Dr. Hanley.
