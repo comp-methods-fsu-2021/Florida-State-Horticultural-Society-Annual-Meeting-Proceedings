@@ -20,8 +20,8 @@
 -Uploaded index (01/26/2021)
 -Struggling to find citable sources for Wikipedia page on FSHS. Fear draft may be deleted! :( (01/26/2021)
 -Split Proceedings files into Prefaces &  Addresses and Papers & Presentations sections for easier searching. (02/08/2021)
--Added 1922 to Proceddings (02/08/2021)
-
+-Added 1922 to Proceedings (02/08/2021)
+-Really struggled with finding suitable regex to isolate sections of text at the midpoint of the Proceedings. Used Atom's Select to Top and Select to Bottom features to work around this problem for the time being, however this only worked for single year documents and is not scalable. Will have to find a solution for the multiyear documents. (02/08/2021)
 
 ## Data Dictionary
 | Term | Use    |
