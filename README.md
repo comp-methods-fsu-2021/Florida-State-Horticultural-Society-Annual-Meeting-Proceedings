@@ -19,6 +19,9 @@
 -Uploaded proceedings txt files (01/25/2021)
 -Uploaded index (01/26/2021)
 -Struggling to find citable sources for Wikipedia page on FSHS. Fear draft may be deleted! :( (01/26/2021)
+-Split Proceedings files into Prefaces &  Addresses and Papers & Presentations sections for easier searching. (02/08/2021)
+-Added 1922 to Proceddings (02/08/2021)
+
 
 ## Data Dictionary
 | Term | Use    |
