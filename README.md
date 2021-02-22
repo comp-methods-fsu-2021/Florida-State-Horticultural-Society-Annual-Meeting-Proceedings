@@ -32,3 +32,6 @@ Readers | These are members who read the Standing Committee papers during Presen
 | Standing Committees | These are long term committees |
 | Presentations | These presentations are written into papers by individual Standing Committees and read by a member of the committee or FSHS. |
 | Discussions | These topical discussions are held by members of the FSHS and are not prewritten as the Presentations are. |
+
+Sample Table: 2/17/2021
+[Tableau](https://public.tableau.com/views/FSHS_Proceedings_Table_test1/Sheet1?:language=en&:display_count=y&publish=yes&:origin=viz_share_link)
