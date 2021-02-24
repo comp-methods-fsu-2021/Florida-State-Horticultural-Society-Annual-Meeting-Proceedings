@@ -14,6 +14,7 @@
 | ------- | --------- |
 | 01/25/2021 | 90 minutes workshop (questions for WH); 90 minutes adding txt files to repository and constructing README
 | 01/26/2021 | added general index to repository (1 minute); researched Articles for Creation process on Wikipedia (40 minutes); created [Wikipedia draft](https://en.wikipedia.org/wiki/Draft:Florida_State_Horticultural_Society) Florida State Horticultural Society page (20 minutes); added terms to Data Dictionary (30 minutes)
+|02/23/2021 | After updating my tabulation to all of the years in my corpus, I was able to run through Healy's chapter 2+3 exercises and found them readily applicable to my work. I really like the flexibility of R so far, although I'm sure there are plenty of challenges yet to come. 
 
 ## Change Log
 -Uploaded proceedings txt files (01/25/2021)
