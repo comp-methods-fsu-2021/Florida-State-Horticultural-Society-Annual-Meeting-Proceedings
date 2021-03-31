@@ -335,9 +335,11 @@ List of Members.
 HONORARY MEMBERS. 
 
 
-Berckmans, P. J., Augusta, Ga. Gaitskill, S. H., McIntosh, Fla. 
+Berckmans, P. J., Augusta, Ga. 
+Gaitskill, S. H., McIntosh, Fla. 
 
-Flagler, H. M., St. Augustine, Fla. Hart, W. S., Hawks Park, Fla. 
+Flagler, H. M., St. Augustine, Fla. 
+Hart, W. S., Hawks Park, Fla. 
 
 Painter, E. O., Jacksonville. 
 
@@ -348,8 +350,7 @@ LIFE MEMBERS.
 Alderman, A. D., Bartow, Fla. 
 
 Allan, Wm., 136 W. 79th St., New York City. 
-Andrews, C. W., Chicago, Ill., John Crerat Li¬ 
-brary. 
+Andrews, C. W., Chicago, Ill., John Crerat Library. 
 
 Baltram, Francisco, Monterey, N. L., Mexico. 
 Barber, C. F., Macclenny, Fla. 
@@ -425,12 +426,10 @@ Hopper, I. A., Orlando, Fla.
 Hume, H. Harold, Glen St. Mary, Fla. 
 
 Hubbard, E. S., Federal Point, Fla. 
-
-r 
+ 
 
 Johnston, S. W., DeLand, Fla. 
-
-1 
+ 
 
 Kerr, Dr. George, 325 Armstead Ave., Hampton,. 
 Va. 
